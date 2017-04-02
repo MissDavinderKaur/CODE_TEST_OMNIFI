@@ -2,6 +2,7 @@
   text-align: center;
   max-width: 100%;
   position: relative;
+  font-family: 'Cardo', serif;
 }
 
 .images {
@@ -32,7 +33,15 @@ nav > ul > li {
   margin: 50px;
 }
 
+.pure-g [class*=pure-u] {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.bottom {
+  font-family: 'Cardo', serif;
+}
+
 .middleLeft {
-    text-align: center;
-    padding-top: 100px;
+  text-align: center;
+
 }
