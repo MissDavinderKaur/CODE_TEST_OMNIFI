@@ -1,0 +1,27 @@
+{
+  "name": "homepagescreen",
+  "version": "1.0.0",
+  "description": "Code Test for Omnifi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MissDavinderKaur/CODE_TEST_OMNIFI.git"
+  },
+  "author": "Davinder Kaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MissDavinderKaur/CODE_TEST_OMNIFI/issues"
+  },
+  "homepage": "https://github.com/MissDavinderKaur/CODE_TEST_OMNIFI#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "method-override": "^2.3.8",
+    "morgan": "^1.8.1",
+    "validator": "^7.0.0"
+  }
+}
